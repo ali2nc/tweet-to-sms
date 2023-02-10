@@ -1,0 +1,2 @@
+tweepy>=0.1
+requests>=0.1
